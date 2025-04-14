@@ -1,0 +1,1 @@
+1. Application fast-api-app has been successfully deployed!!
